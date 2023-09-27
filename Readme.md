@@ -11,3 +11,4 @@ Requisitos:
         La función para escribir información en consola es: Debug.Log()
 
 Ejecución:
+![](https://github.com/jsfabiani/Tarea_1_FDV/blob/main/FDV_tarea_1%20-%20Playground%20-%20Windows%2C%20Mac%2C%20Linux%20-%20Unity%202022.3.10f1%20_DX11_%202023-09-27%2000-08-20.gif)
